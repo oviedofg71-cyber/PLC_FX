@@ -1,0 +1,18 @@
+###########################################
+# Syntax Coloring Map For PLC_FX
+###########################################
+
+###########################################
+# Datatypes (Classes)
+###########################################
+
+PLC_FX	KEYWORD1
+
+###########################################
+# Methods and Functions (Funciones)
+###########################################
+
+leerBit	KEYWORD2
+escribirBit	KEYWORD2
+escribirD	KEYWORD2
+begin	KEYWORD2
