@@ -22,6 +22,10 @@ class PLC_FX {
 
     // Escritura de bits (Y, M)
     void escribirBit(char tipo, int numero, bool estado);
+    // Lectura de bits (D)
+    int leerD(int numero);
+
+    int leerValorT(int numero);
 
     // Escritura de registros D (16 bits)
     void escribirD(int numero, int valor);
