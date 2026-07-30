@@ -7,6 +7,7 @@
 ###########################################
 
 PLC_FX	KEYWORD1
+ConductimetroSTM32	KEYWORD1
 
 ###########################################
 # Methods and Functions (Funciones)
@@ -15,4 +16,10 @@ PLC_FX	KEYWORD1
 leerBit	KEYWORD2
 escribirBit	KEYWORD2
 escribirD	KEYWORD2
+leerD	KEYWORD2
+leerValorT	KEYWORD2
 begin	KEYWORD2
+processSample	KEYWORD2
+setPuntoCalibracion	KEYWORD2
+updateCriticalConfig	KEYWORD2
+exportHoldingRegisters	KEYWORD2
