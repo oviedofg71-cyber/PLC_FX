@@ -58,3 +58,10 @@ Demuestra:
 - Carga de 3 puntos de calibración.
 - Persistencia y restauración de configuración.
 - Procesamiento periódico de muestra y lectura de estado de alarmas.
+
+
+## Hardware del conductímetro (circuito electrónico)
+
+Se añadió la propuesta de circuito electrónico completo (bloques, conexiones, componentes, valores iniciales, BOM y reglas PCB):
+
+- `/home/runner/work/PLC_FX/PLC_FX/docs/ConductimetroSTM32_Circuito.md`
